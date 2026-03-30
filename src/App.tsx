@@ -69,13 +69,13 @@ export default function App() {
           ))}
         </div>
         <p className="max-w-3xl mx-auto text-lg text-center">Communities experience climate impacts daily but cannot connect them to climate change or respond effectively. This gap limits resilience.</p>
-        <img src="https://i.postimg.cc/zGJwZpg3/Bori-Dheri.jpg" alt="Cracked land" className="w-full h-96 object-cover rounded-2xl mt-12" referrerPolicy="no-referrer" />
+        <img src="https://i.postimg.cc/zGJwZpg3/Bori-Dheri.jpg" alt="Cracked land" className="w-full h-auto rounded-2xl mt-12 shadow-lg" referrerPolicy="no-referrer" />
       </Section>
 
       <Section>
         <h2 className="text-4xl font-bold text-center mb-12">What is a Baithak?</h2>
         <p className="max-w-3xl mx-auto text-lg text-center mb-12">A Baithak is a community sitting — a traditional concept of gathering to discuss important issues. Youth Climate Baithak uses this trusted format to bring climate literacy directly into villages through structured, participatory sessions led by local youth.</p>
-        <img src="https://image2url.com/r2/default/images/1774785030900-1c6cf650-ec32-4a71-8876-fd8cebb59d72.blob" alt="Community gathering" className="w-full h-96 object-cover rounded-2xl" referrerPolicy="no-referrer" />
+        <img src="https://image2url.com/r2/default/images/1774785030900-1c6cf650-ec32-4a71-8876-fd8cebb59d72.blob" alt="Community gathering" className="w-full h-auto rounded-2xl shadow-lg" referrerPolicy="no-referrer" />
       </Section>
 
       <Section id="how-it-works" className="bg-[#0a2a33] text-white">
